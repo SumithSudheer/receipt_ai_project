@@ -29,7 +29,8 @@ def normalize_date(date_str):
     ]
     for fmt in date_formats:
         try:
-            return datetime.strptime(date_str.strip(), fmt).strftime("%Y-%m-%d")
+            cleaned_date_str = date_str.replace('O', '0').replace('o', '0')
+            return datetime.strptime(cleaned_date_str.strip(), fmt).strftime("%Y-%m-%d")
         except ValueError:
             continue
     return None
@@ -112,13 +113,16 @@ def extract_entities(text: str):
     print(total_amount)
     # Regex patterns for different date formats including time
     date_patterns = [
-        r"\b\d{1,2}[/-]\d{1,2}[/-]\d{2,4}(?: \d{1,2}:\d{2}:\d{2} [APMapm]{2})?\b",  # NEW
+        # Allows for 'O' or 'o' for digits 0-9 for month/day/year components
+        r"\b[0-9Oo]{1,2}[/-][0-9Oo]{1,2}[/-][0-9Oo]{2,4}(?: \d{1,2}:\d{2}(?::\d{2})?(?: [APMapm]{2})?)?\b",
         r"\b\d{4}[/-]\d{2}[/-]\d{2}\b",
-        r"\b\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}\b"
+        r"\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+\d{1,2},?\s+\d{4}\b",
+        r"\b\d{1,2}\s+(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}\b"
     ]
-
+    print(text)
     for pattern in date_patterns:
         matches = re.findall(pattern, text)
+        print(matches)
         for m in matches:
             normalized = normalize_date(m)
             if normalized:
