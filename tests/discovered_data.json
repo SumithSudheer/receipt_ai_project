@@ -1,0 +1,1802 @@
+[
+  {
+    "file": "bart-43253423.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 100,
+      "merchant_name": "TVN No",
+      "total_amount": 20.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "bart-535245634.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 101,
+      "merchant_name": "TVN No",
+      "total_amount": 284508.0,
+      "purchased_at": "2018-07-21"
+    }
+  },
+  {
+    "file": "bart_20180908_004.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 102,
+      "merchant_name": "TVN No",
+      "total_amount": 20.0,
+      "purchased_at": "2018-07-21"
+    }
+  },
+  {
+    "file": "bart_20180908_007.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 103,
+      "merchant_name": "BART",
+      "total_amount": 20.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "caltrain-425345423423.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 104,
+      "merchant_name": null,
+      "total_amount": 7.5,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "applebees_8267120140431.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 105,
+      "merchant_name": "NEIGHBORHOOD GRILL & BAR",
+      "total_amount": 125.23,
+      "purchased_at": "2018-12-01"
+    }
+  },
+  {
+    "file": "beerhaus_20181208_006.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 106,
+      "merchant_name": "Weihenstephaner",
+      "total_amount": 82.27,
+      "purchased_at": "2018-11-30"
+    }
+  },
+  {
+    "file": "beerhaus_20181208_007.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 107,
+      "merchant_name": "Beerhaus Burger",
+      "total_amount": 41.14,
+      "purchased_at": "2018-11-30"
+    }
+  },
+  {
+    "file": "shakeshack_20181208_004.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 108,
+      "merchant_name": "Bacon Cheese Fries",
+      "total_amount": 20.64,
+      "purchased_at": "2018-02-12"
+    }
+  },
+  {
+    "file": "sliders-454353423425.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 109,
+      "merchant_name": "AUDUOGS",
+      "total_amount": 20.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "sw_20181208_005.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 110,
+      "merchant_name": "STEAKHOUSE",
+      "total_amount": 968.84,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "sw_20181208_3630.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 111,
+      "merchant_name": "STEAKHOUSE",
+      "total_amount": 968.84,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "hm-4352342354.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 112,
+      "merchant_name": "H&M",
+      "total_amount": 52.04,
+      "purchased_at": "2018-07-25"
+    }
+  },
+  {
+    "file": "safeway-3208524524.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 113,
+      "merchant_name": "SAFEWAY G9",
+      "total_amount": 9.03,
+      "purchased_at": "2018-07-23"
+    }
+  },
+  {
+    "file": "walgreens-42543523432.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 114,
+      "merchant_name": "ALP",
+      "total_amount": 16.9,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "taxi_010E33SD547.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 115,
+      "merchant_name": "APPL",
+      "total_amount": 21.68,
+      "purchased_at": "2018-12-02"
+    }
+  },
+  {
+    "file": "grandcanyonwest_20181208.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 116,
+      "merchant_name": "MC 71,57",
+      "total_amount": 71.57,
+      "purchased_at": "2018-12-01"
+    }
+  },
+  {
+    "file": "starbucks_731564.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 117,
+      "merchant_name": "Starbucks Coffee",
+      "total_amount": 16839.0,
+      "purchased_at": "2019-12-05"
+    }
+  },
+  {
+    "file": "countryinn_30878.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 118,
+      "merchant_name": "El Camino Real",
+      "total_amount": 978.32,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "hilton_3098434064.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 119,
+      "merchant_name": "PARC",
+      "total_amount": 663.08,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "mystic-106247969.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 120,
+      "merchant_name": "Miunich",
+      "total_amount": 2512.87,
+      "purchased_at": "2019-04-07"
+    }
+  },
+  {
+    "file": "venetian-437991869934.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 121,
+      "merchant_name": "PALAZZO",
+      "total_amount": 2254.0,
+      "purchased_at": "2019-01-12"
+    }
+  },
+  {
+    "file": "bart-16040508.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 122,
+      "merchant_name": "Ticket Vendor",
+      "total_amount": 11.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "bart-18102616.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 123,
+      "merchant_name": "Ticket Vendor",
+      "total_amount": 11.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "bart_64514-18051616-2.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 124,
+      "merchant_name": "MasterCard",
+      "total_amount": 353685.0,
+      "purchased_at": "2019-05-13"
+    }
+  },
+  {
+    "file": "bart_64514-18051616.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 125,
+      "merchant_name": "Contra Costa Crisis Center",
+      "total_amount": null,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "caltrain_20190510.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 126,
+      "merchant_name": "Clipper Monthly Pass",
+      "total_amount": 8.25,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "cheesecake-20191221_003.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 127,
+      "merchant_name": "CHEESECAKE",
+      "total_amount": 44.87,
+      "purchased_at": "2019-12-06"
+    }
+  },
+  {
+    "file": "cowgirlcreamery-20190420_010.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 128,
+      "merchant_name": "GC",
+      "total_amount": 13.78,
+      "purchased_at": "2019-08-04"
+    }
+  },
+  {
+    "file": "dennys-20190420_009.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 129,
+      "merchant_name": "Sig Diner Coffee",
+      "total_amount": 6873.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "dennys-20190420_013.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 130,
+      "merchant_name": "Diner Coffee",
+      "total_amount": 30.37,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "dennys-20191204.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 131,
+      "merchant_name": "iy Coffee",
+      "total_amount": 14.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "dennys_318879.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 132,
+      "merchant_name": "NLCXXF",
+      "total_amount": 30.37,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "fatburger-20191203.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 133,
+      "merchant_name": "Ref/Seq # 025448\nEPS Sequence",
+      "total_amount": 35.66,
+      "purchased_at": "2019-12-03"
+    }
+  },
+  {
+    "file": "fiveguys_aaaxwhncacb5.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 134,
+      "merchant_name": "Sweepstakes",
+      "total_amount": 2829.0,
+      "purchased_at": "2019-12-31"
+    }
+  },
+  {
+    "file": "fiveguys_aaaxwhnjaebm.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 135,
+      "merchant_name": "MasterCard",
+      "total_amount": 25.0,
+      "purchased_at": "2019-12-31"
+    }
+  },
+  {
+    "file": "inout-20191221_005.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 136,
+      "merchant_name": "BURGER",
+      "total_amount": 10.28,
+      "purchased_at": "2019-12-02"
+    }
+  },
+  {
+    "file": "moz_208095.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 137,
+      "merchant_name": "MOZ Cafe",
+      "total_amount": 16.84,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "outback-20191204.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 138,
+      "merchant_name": "Dine Rewards",
+      "total_amount": 500.0,
+      "purchased_at": "2019-12-04"
+    }
+  },
+  {
+    "file": "panda-20191221_004.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 139,
+      "merchant_name": "Panda Exoress",
+      "total_amount": 2458.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "roxanne-596018.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 140,
+      "merchant_name": "the SF Health Care\nSecurity Ordinance",
+      "total_amount": 19.88,
+      "purchased_at": "2019-04-13"
+    }
+  },
+  {
+    "file": "roxannes_599355.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 141,
+      "merchant_name": "the SF Health Care\nSecurity Ordinance",
+      "total_amount": 17.75,
+      "purchased_at": "2019-12-05"
+    }
+  },
+  {
+    "file": "sudamkorean_20190507.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 142,
+      "merchant_name": "SUDAM",
+      "total_amount": 43.57,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "superduper_20355.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 143,
+      "merchant_name": "Combo Super Fries Soda",
+      "total_amount": 13.75,
+      "purchased_at": "2019-12-05"
+    }
+  },
+  {
+    "file": "superduper_20451.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 144,
+      "merchant_name": "Combo Super GarlicF Soda 13.75",
+      "total_amount": 20451.0,
+      "purchased_at": "2019-10-05"
+    }
+  },
+  {
+    "file": "superduperburger-20190420_008.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 145,
+      "merchant_name": "Combo Super Fries Soda",
+      "total_amount": 20408.0,
+      "purchased_at": "2019-04-13"
+    }
+  },
+  {
+    "file": "cocacola-20191221_001.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 146,
+      "merchant_name": "CMG",
+      "total_amount": 49.64,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "cvs-20190420_012.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 147,
+      "merchant_name": "SUTTER ST",
+      "total_amount": 416.39,
+      "purchased_at": "2019-06-06"
+    }
+  },
+  {
+    "file": "oldnavy-059343150871201904133755.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 148,
+      "merchant_name": "NAVY",
+      "total_amount": 140.1,
+      "purchased_at": "2019-04-13"
+    }
+  },
+  {
+    "file": "oldnavy-20191221_002.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 149,
+      "merchant_name": "NAVY",
+      "total_amount": 411.99,
+      "purchased_at": "2019-06-12"
+    }
+  },
+  {
+    "file": "oldnavy_059340204213201905110270.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 150,
+      "merchant_name": "BXR",
+      "total_amount": 107.45,
+      "purchased_at": "2019-11-05"
+    }
+  },
+  {
+    "file": "safeway_40001555198.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 151,
+      "merchant_name": "SAFEWAY",
+      "total_amount": 100.0,
+      "purchased_at": "2019-05-06"
+    }
+  },
+  {
+    "file": "safeway_85001973167.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 152,
+      "merchant_name": "SAFEWAY",
+      "total_amount": 100.0,
+      "purchased_at": "2019-05-06"
+    }
+  },
+  {
+    "file": "uniqlo-20190420_007.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 153,
+      "merchant_name": "E-RECEIPTS & A",
+      "total_amount": 6.20190413155342e+19,
+      "purchased_at": "2020-04-13"
+    }
+  },
+  {
+    "file": "walgreens-20190420_006.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 154,
+      "merchant_name": "CA 94102",
+      "total_amount": 83.0,
+      "purchased_at": "2019-04-13"
+    }
+  },
+  {
+    "file": "walgreens-20191207.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 155,
+      "merchant_name": "ADC",
+      "total_amount": null,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "walgreens-20191221_009.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 156,
+      "merchant_name": "KANANT",
+      "total_amount": 15578.0,
+      "purchased_at": "2019-02-12"
+    }
+  },
+  {
+    "file": "walgreens_20190510.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 157,
+      "merchant_name": "MASTERCARD",
+      "total_amount": 3185.0,
+      "purchased_at": "2019-10-05"
+    }
+  },
+  {
+    "file": "walgreens_20190512.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 158,
+      "merchant_name": "CA 94102",
+      "total_amount": 10.07,
+      "purchased_at": "2019-12-05"
+    }
+  },
+  {
+    "file": "wholefoods-20190420_004.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 159,
+      "merchant_name": "Franklin FRK",
+      "total_amount": 250.0,
+      "purchased_at": "2019-08-04"
+    }
+  },
+  {
+    "file": "wholefoods_500100364.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 160,
+      "merchant_name": "Franklin FRK",
+      "total_amount": 939.0,
+      "purchased_at": "2019-08-04"
+    }
+  },
+  {
+    "file": "topgold-20191203.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 161,
+      "merchant_name": "Lagunitas IPA Pint",
+      "total_amount": 117.64,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "bestbuy-20211211_006.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 162,
+      "merchant_name": "CA 91748\n\n",
+      "total_amount": 196.03,
+      "purchased_at": "2021-12-02"
+    }
+  },
+  {
+    "file": "bestbuy-20211211_013.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 163,
+      "merchant_name": "CA 91748\n\n",
+      "total_amount": 381.06,
+      "purchased_at": "2021-12-02"
+    }
+  },
+  {
+    "file": "bestbuy_20211211_006.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 164,
+      "merchant_name": "CA 91748\n\n",
+      "total_amount": 196.03,
+      "purchased_at": "2021-12-02"
+    }
+  },
+  {
+    "file": "bestbuy_20211211_013.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 165,
+      "merchant_name": "CA 91748\n\n",
+      "total_amount": 381.06,
+      "purchased_at": "2021-12-02"
+    }
+  },
+  {
+    "file": "bigboy-20211211_020.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 166,
+      "merchant_name": "CA 91505",
+      "total_amount": 24.33,
+      "purchased_at": "2021-11-27"
+    }
+  },
+  {
+    "file": "bigboy_20211211_020.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 167,
+      "merchant_name": "CA 91505",
+      "total_amount": 24.33,
+      "purchased_at": "2021-11-27"
+    }
+  },
+  {
+    "file": "coffeebean-20211211_016.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 168,
+      "merchant_name": "Ariana 12:08 PH\n\n1 Large Ice Tea",
+      "total_amount": 3.86,
+      "purchased_at": "2021-11-25"
+    }
+  },
+  {
+    "file": "cornerbakery-20211211_017.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 169,
+      "merchant_name": "Corna",
+      "total_amount": 233.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "cvs-20211211_003.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 170,
+      "merchant_name": "W MALIBU RD",
+      "total_amount": 84083702.0,
+      "purchased_at": "2022-01-24"
+    }
+  },
+  {
+    "file": "cvs-20211211_004.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 171,
+      "merchant_name": "EGAS",
+      "total_amount": 8.62,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "cvs-20211211_009.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 172,
+      "merchant_name": "ood & G8 & a&&\n\n",
+      "total_amount": 4889455.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "cvs_20211211_003.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 173,
+      "merchant_name": "W MALIBU RD",
+      "total_amount": 84083702.0,
+      "purchased_at": "2022-01-24"
+    }
+  },
+  {
+    "file": "cvs_20211211_004.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 174,
+      "merchant_name": "EGAS",
+      "total_amount": 8.62,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "cvs_20211211_009.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 175,
+      "merchant_name": "ood & G8 & a&&\n\n",
+      "total_amount": 4889455.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "fiveguys-20211211_018.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 176,
+      "merchant_name": "NV 89119",
+      "total_amount": 25.0,
+      "purchased_at": "2021-12-31"
+    }
+  },
+  {
+    "file": "fiveguys_20211211_018.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 177,
+      "merchant_name": "NV 89119",
+      "total_amount": 25.0,
+      "purchased_at": "2021-12-31"
+    }
+  },
+  {
+    "file": "mgm_895557014.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 178,
+      "merchant_name": "Apimeister Consulting GmbH Arrival 41/28/24\nFreidrichstr",
+      "total_amount": 41222.32,
+      "purchased_at": "2021-11-28"
+    }
+  },
+  {
+    "file": "inout-20211211_001.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 179,
+      "merchant_name": "Tender MasterCard",
+      "total_amount": 10.57,
+      "purchased_at": "2021-11-30"
+    }
+  },
+  {
+    "file": "inout_20211211_001.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 180,
+      "merchant_name": "Tender MasterCard",
+      "total_amount": 10.57,
+      "purchased_at": "2021-11-30"
+    }
+  },
+  {
+    "file": "mgm_895557014.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 181,
+      "merchant_name": "Apimeister Consulting GmbH Arrival 41/28/24\nFreidrichstr",
+      "total_amount": 41222.32,
+      "purchased_at": "2021-11-28"
+    }
+  },
+  {
+    "file": "oldnavy-20211211_007.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 182,
+      "merchant_name": "NASA",
+      "total_amount": 439.99,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "oldnavy-20211211_008.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 183,
+      "merchant_name": "NAVY",
+      "total_amount": 125.68,
+      "purchased_at": "2021-02-12"
+    }
+  },
+  {
+    "file": "oldnavy-20211211_015.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 184,
+      "merchant_name": "NAVY",
+      "total_amount": 110.23,
+      "purchased_at": "2021-11-28"
+    }
+  },
+  {
+    "file": "oldnavy_20211211_007.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 185,
+      "merchant_name": "NASA",
+      "total_amount": 439.99,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "oldnavy_20211211_008.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 186,
+      "merchant_name": "NAVY",
+      "total_amount": 125.68,
+      "purchased_at": "2021-02-12"
+    }
+  },
+  {
+    "file": "oldnavy_20211211_015.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 187,
+      "merchant_name": "NAVY",
+      "total_amount": 110.23,
+      "purchased_at": "2021-11-28"
+    }
+  },
+  {
+    "file": "pacificpark_20211211_016.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 188,
+      "merchant_name": "Ariana 12:08 PH\n\n1 Large Ice Tea",
+      "total_amount": 3.86,
+      "purchased_at": "2021-11-25"
+    }
+  },
+  {
+    "file": "panda-20211211_012.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 189,
+      "merchant_name": "EMV",
+      "total_amount": 2362.0,
+      "purchased_at": "2021-11-24"
+    }
+  },
+  {
+    "file": "panda_20211211_012.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 190,
+      "merchant_name": "EMV",
+      "total_amount": 2362.0,
+      "purchased_at": "2021-11-24"
+    }
+  },
+  {
+    "file": "panera-20211211_017.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 191,
+      "merchant_name": "Panera Bread\nCafe",
+      "total_amount": 50.0,
+      "purchased_at": "2021-11-10"
+    }
+  },
+  {
+    "file": "panerabread_20211211_017.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 192,
+      "merchant_name": "Panera Bread\nCafe",
+      "total_amount": 50.0,
+      "purchased_at": "2021-11-10"
+    }
+  },
+  {
+    "file": "ross-20211211_010.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 193,
+      "merchant_name": "OSS",
+      "total_amount": 1000.0,
+      "purchased_at": "2021-11-26"
+    }
+  },
+  {
+    "file": "ross_20211211_010.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 194,
+      "merchant_name": "OSS",
+      "total_amount": 1000.0,
+      "purchased_at": "2021-11-26"
+    }
+  },
+  {
+    "file": "shakeshack-20211211.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 195,
+      "merchant_name": "FP MC",
+      "total_amount": 23.36,
+      "purchased_at": "2021-11-29"
+    }
+  },
+  {
+    "file": "shakeshack_20211211.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 196,
+      "merchant_name": "FP MC",
+      "total_amount": 23.36,
+      "purchased_at": "2021-11-29"
+    }
+  },
+  {
+    "file": "snacks-20211211_002.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 197,
+      "merchant_name": "Mirage Hotel",
+      "total_amount": 29.61,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "snacks-20211211_019.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 198,
+      "merchant_name": "Mirage Hotel",
+      "total_amount": 29.61,
+      "purchased_at": "2021-11-29"
+    }
+  },
+  {
+    "file": "snacks_20211211_002.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 199,
+      "merchant_name": "Mirage Hotel",
+      "total_amount": 29.61,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "snacks_20211211_019.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 200,
+      "merchant_name": "Mirage Hotel",
+      "total_amount": 29.61,
+      "purchased_at": "2021-11-29"
+    }
+  },
+  {
+    "file": "wholefoods-20211211_005.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 201,
+      "merchant_name": "Pasadena PAS 626-351-5994",
+      "total_amount": 13.16,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "wholefoods-20211211_011.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 202,
+      "merchant_name": "Pasadena PAS 626-351-5994",
+      "total_amount": 250.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "wholefoods_20211211_005.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 203,
+      "merchant_name": "Pasadena PAS 626-351-5994",
+      "total_amount": 13.16,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "wholefoods_20211211_011.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 204,
+      "merchant_name": "Pasadena PAS 626-351-5994",
+      "total_amount": 250.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "allegiant_20221210_014.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 205,
+      "merchant_name": "SC",
+      "total_amount": 44.87,
+      "purchased_at": "2022-11-26"
+    }
+  },
+  {
+    "file": "amtrak_20221016.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 206,
+      "merchant_name": "B Ticket Coupon Cc Riders",
+      "total_amount": 53.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "chickfila_20221016_005.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 207,
+      "merchant_name": "Mastercard",
+      "total_amount": 12.28,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "chris_20221008.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 208,
+      "merchant_name": "Bacon & Eggs",
+      "total_amount": 20.84,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "chris_20221016_012.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 209,
+      "merchant_name": "7MuHzsFssHdx\n\nApplication ID",
+      "total_amount": 29.19,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "dennys_20221210_002.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 210,
+      "merchant_name": "NV 89109",
+      "total_amount": 46.48,
+      "purchased_at": "2022-11-27"
+    }
+  },
+  {
+    "file": "fiveguys_20221016_011.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 211,
+      "merchant_name": "Sweepstakes",
+      "total_amount": 60.0,
+      "purchased_at": "2022-12-31"
+    }
+  },
+  {
+    "file": "giordano_20221210_003.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 212,
+      "merchant_name": "Giordano",
+      "total_amount": 1137631.0,
+      "purchased_at": "2022-11-30"
+    }
+  },
+  {
+    "file": "giordanos_20221016_015.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 213,
+      "merchant_name": "GIORDANO",
+      "total_amount": 59.21,
+      "purchased_at": "2022-09-29"
+    }
+  },
+  {
+    "file": "giordanos_20221016_016.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 214,
+      "merchant_name": "aoa\n",
+      "total_amount": 2336091.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "hyattbrewhouse_20221016_002.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 215,
+      "merchant_name": "Hyatt Regency St. Louis",
+      "total_amount": 41.13,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "hyattbrewhouse_20221016_006.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 216,
+      "merchant_name": "Hyatt Regency St. Louis",
+      "total_amount": 41.13,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "inout_20221210_005.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 217,
+      "merchant_name": "Tender MasterCard $",
+      "total_amount": 22.11,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "oldnavy_20221016_015.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 218,
+      "merchant_name": "NAVY",
+      "total_amount": 113.51,
+      "purchased_at": "2022-09-27"
+    }
+  },
+  {
+    "file": "outback_20221210_012.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 219,
+      "merchant_name": "PItttittt Tico eC Cet",
+      "total_amount": 80.36,
+      "purchased_at": "2022-11-27"
+    }
+  },
+  {
+    "file": "pandaexpress_20221210_016.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 220,
+      "merchant_name": "Panda Express",
+      "total_amount": 100.0,
+      "purchased_at": "2022-11-29"
+    }
+  },
+  {
+    "file": "portillos_20221016_008.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 221,
+      "merchant_name": "Clark & Ontario",
+      "total_amount": 12.75,
+      "purchased_at": "2022-09-21"
+    }
+  },
+  {
+    "file": "portillos_20221016_014.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 222,
+      "merchant_name": "Clark & Ontario",
+      "total_amount": 13.49,
+      "purchased_at": "2022-09-27"
+    }
+  },
+  {
+    "file": "potbelly_20221016_009.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 223,
+      "merchant_name": "Potbelly Sandwich Shop",
+      "total_amount": 10.72,
+      "purchased_at": "2022-09-22"
+    }
+  },
+  {
+    "file": "schnucks_20221016_011.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 224,
+      "merchant_name": "FROSTED COOK",
+      "total_amount": 8.65,
+      "purchased_at": "2022-09-24"
+    }
+  },
+  {
+    "file": "shakeshack_20221016_007.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 225,
+      "merchant_name": "FP MC #",
+      "total_amount": null,
+      "purchased_at": "2022-09-21"
+    }
+  },
+  {
+    "file": "shakeshack_20221210_009.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 226,
+      "merchant_name": "@9.99",
+      "total_amount": 49.05,
+      "purchased_at": "2022-11-25"
+    }
+  },
+  {
+    "file": "snacks_20221210_001.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 227,
+      "merchant_name": "Mirage Hotel",
+      "total_amount": 31.59,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "snacks_20221210_004.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 228,
+      "merchant_name": "Mirage Hotel",
+      "total_amount": 25.28,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "snacks_20221210_015.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 229,
+      "merchant_name": "Mirage Hotel",
+      "total_amount": 30.33,
+      "purchased_at": "2022-11-30"
+    }
+  },
+  {
+    "file": "stans_20221210.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 230,
+      "merchant_name": "N Rush\nChicago",
+      "total_amount": 11.12,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "starbucks_20221016_017.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 231,
+      "merchant_name": "Starbucks Coffee",
+      "total_amount": 53313.0,
+      "purchased_at": "2022-09-29"
+    }
+  },
+  {
+    "file": "starbucks_20221210_008.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 232,
+      "merchant_name": "STARBUCKS E FOOD COURT",
+      "total_amount": 16599.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "tap_20221210_011.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 233,
+      "merchant_name": "MGM Grand",
+      "total_amount": 48.77,
+      "purchased_at": "2022-11-25"
+    }
+  },
+  {
+    "file": "touslesjours_20221016_003.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 234,
+      "merchant_name": "cs JOURS\n\n",
+      "total_amount": 12.12,
+      "purchased_at": "2022-09-28"
+    }
+  },
+  {
+    "file": "walgreens_20221016_003.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 235,
+      "merchant_name": "00211 757 N MICHIGAN AVE\n",
+      "total_amount": 18.5,
+      "purchased_at": "2022-09-28"
+    }
+  },
+  {
+    "file": "walgreens_20221210_010.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 236,
+      "merchant_name": "wm\n\n#",
+      "total_amount": 9.38,
+      "purchased_at": "2022-11-28"
+    }
+  },
+  {
+    "file": "walmart_20221228.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 237,
+      "merchant_name": "TROPICANA AVE",
+      "total_amount": 8060.0,
+      "purchased_at": "2022-11-29"
+    }
+  },
+  {
+    "file": "whitecastle_20221016_010.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 238,
+      "merchant_name": "Single Sliders",
+      "total_amount": 5981.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "wholefoods_20221016_004.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 239,
+      "merchant_name": "W Chicago Ave",
+      "total_amount": 250.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "wholefoods_20221016_013.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 240,
+      "merchant_name": "Lincoln",
+      "total_amount": 250.0,
+      "purchased_at": "2022-09-27"
+    }
+  },
+  {
+    "file": "wynnsw_20221210_011.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 241,
+      "merchant_name": "Wynn/Encore",
+      "total_amount": 366.31,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "beerhouse_20231209_005.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 242,
+      "merchant_name": "Firestone",
+      "total_amount": 41.72,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "cafemason_20231005_009.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 243,
+      "merchant_name": "AMERICAN EXPRESS",
+      "total_amount": 98.59,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "celias_20231005_006.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 244,
+      "merchant_name": "CELIAS",
+      "total_amount": 39.94,
+      "purchased_at": "2023-01-09"
+    }
+  },
+  {
+    "file": "chowderhut_20231005_011.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 245,
+      "merchant_name": "CHOWDER HUT",
+      "total_amount": 21.15,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "citycar_19830107_Payments.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 246,
+      "merchant_name": "Mason Street Rental Agreement",
+      "total_amount": 2640.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "cvs_20231209_006.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 247,
+      "merchant_name": "CESSES ESIC",
+      "total_amount": 8.62,
+      "purchased_at": "2024-01-26"
+    }
+  },
+  {
+    "file": "dennys_20231209_004.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 248,
+      "merchant_name": "Denny's",
+      "total_amount": 98.44,
+      "purchased_at": "2023-11-28"
+    }
+  },
+  {
+    "file": "gelato_20231209_015.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 249,
+      "merchant_name": "Apple",
+      "total_amount": 31.28,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "grandlux_20231209_018.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 250,
+      "merchant_name": "GRAND LUX CAFE",
+      "total_amount": 56.45,
+      "purchased_at": "2025-12-03"
+    }
+  },
+  {
+    "file": "hilton_20230829.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 251,
+      "merchant_name": "PARC",
+      "total_amount": 1984.35,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "inout_20231209_003.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 252,
+      "merchant_name": "el\nCashier",
+      "total_amount": 22.87,
+      "purchased_at": "2023-11-27"
+    }
+  },
+  {
+    "file": "jimmy_20231209_009.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 253,
+      "merchant_name": "Land Shark Lg",
+      "total_amount": 24.85,
+      "purchased_at": "2023-11-26"
+    }
+  },
+  {
+    "file": "moz_20231005.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 254,
+      "merchant_name": "Credit Card",
+      "total_amount": 37.22,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "moz_20231005_001.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 255,
+      "merchant_name": "seceeentees RESTAURANT COPY",
+      "total_amount": 37.22,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "oldnavy_20231003.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 256,
+      "merchant_name": "NAVY",
+      "total_amount": 126.84,
+      "purchased_at": "2023-01-09"
+    }
+  },
+  {
+    "file": "panda_20231209_007.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 257,
+      "merchant_name": "Panda Express",
+      "total_amount": 2450.0,
+      "purchased_at": "2023-11-30"
+    }
+  },
+  {
+    "file": "pizzakitchen_20231005_005.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 258,
+      "merchant_name": "California Pizza Kitchen",
+      "total_amount": 31.15,
+      "purchased_at": "2023-08-30"
+    }
+  },
+  {
+    "file": "redwood_20231005_007.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 259,
+      "merchant_name": "CA 95018",
+      "total_amount": 10.0,
+      "purchased_at": "2023-09-01"
+    }
+  },
+  {
+    "file": "shakeshack_20231209_002.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 260,
+      "merchant_name": "Sierra",
+      "total_amount": 50.33,
+      "purchased_at": "2023-11-28"
+    }
+  },
+  {
+    "file": "shell_20231005_003.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 261,
+      "merchant_name": "TVR",
+      "total_amount": 28.32,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "snacks_20231209.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 262,
+      "merchant_name": "Grange",
+      "total_amount": 31.59,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "snacks_20231209_013.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 263,
+      "merchant_name": "EMV",
+      "total_amount": 30.84,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "snacks_20231209_016.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 264,
+      "merchant_name": "5052404",
+      "total_amount": 71.56,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "starbucks_20231209_017.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 265,
+      "merchant_name": "Starbucks",
+      "total_amount": 53330.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "subway_20231209_012.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 266,
+      "merchant_name": "MVP Rewards",
+      "total_amount": 13.14,
+      "purchased_at": "2023-02-12"
+    }
+  },
+  {
+    "file": "topgolf_20231209_011.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 267,
+      "merchant_name": "Mastercard",
+      "total_amount": 155.68,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "traderjoes_20230905.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 268,
+      "merchant_name": "Trargaction:2\nBalance",
+      "total_amount": 9.98,
+      "purchased_at": "2023-09-01"
+    }
+  },
+  {
+    "file": "walgreens_20231005_002.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 269,
+      "merchant_name": "CA 94102",
+      "total_amount": 3000.0,
+      "purchased_at": "2023-08-30"
+    }
+  },
+  {
+    "file": "walgreens_20231005_010.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 270,
+      "merchant_name": "CA 94102",
+      "total_amount": 3000.0,
+      "purchased_at": "2023-08-27"
+    }
+  },
+  {
+    "file": "wynn_20231209_014.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 271,
+      "merchant_name": "Wynn/Encore",
+      "total_amount": 402.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "yellow_20231209_008.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 272,
+      "merchant_name": "RRAAKKKKEKEEHD G2\n\nAuth",
+      "total_amount": 43.02,
+      "purchased_at": "2023-11-26"
+    }
+  },
+  {
+    "file": "cheesecakefactory_20240528_003.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 273,
+      "merchant_name": "CHEESECAKE",
+      "total_amount": 58.93,
+      "purchased_at": "2024-05-20"
+    }
+  },
+  {
+    "file": "luckylouie_20240529_001.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 274,
+      "merchant_name": "Rosina R",
+      "total_amount": 208.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "mcdonald_20240529.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 275,
+      "merchant_name": "waw.mcdvoice .com",
+      "total_amount": 2065312358.0,
+      "purchased_at": "2024-05-24"
+    }
+  },
+  {
+    "file": "oldnavy_20240528_006.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 276,
+      "merchant_name": "NAVY",
+      "total_amount": 711.5,
+      "purchased_at": "2024-05-24"
+    }
+  },
+  {
+    "file": "spaceneedle_20240528_005.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 277,
+      "merchant_name": "Mastercard",
+      "total_amount": 39.38,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "wholefood_20240528_003.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 278,
+      "merchant_name": "Westlake",
+      "total_amount": 250.0,
+      "purchased_at": null
+    }
+  },
+  {
+    "file": "wholefoods_20240528_002.pdf",
+    "extracted": {
+      "message": "Receipt processed successfully",
+      "receipt_id": 279,
+      "merchant_name": "Westlake",
+      "total_amount": 250.0,
+      "purchased_at": "2024-05-22"
+    }
+  }
+]

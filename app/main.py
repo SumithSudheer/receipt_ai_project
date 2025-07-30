@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from .database import Base, engine
-from .routes import upload
+from .routes import upload, validate, process
+# process_v2, process_v3, process_v4
 
 app = FastAPI()
 
@@ -8,6 +9,11 @@ app = FastAPI()
 Base.metadata.create_all(bind=engine)
 
 app.include_router(upload.router)
+app.include_router(validate.router)
+app.include_router(process.router)
+# app.include_router(process_v2.router)
+# app.include_router(process_v3.router)
+# app.include_router(process_v4.router)
 
 @app.get("/")
 def root():

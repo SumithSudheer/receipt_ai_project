@@ -1,0 +1,19 @@
+[
+    {
+      "file": "venetian_434280912998.pdf",
+      "expected": {
+        "merchant_name": "palazzo",
+        "total_amount": 2174.62,
+        "purchased_at": "2018-02-12"
+      }
+    },
+    {
+      "file": "bus_ticket_1.pdf",
+      "expected": {
+        "merchant_name": "Greyhound",
+        "total_amount": 45.00,
+        "purchased_at": "2024-05-01"
+      }
+    }
+  ]
+  
