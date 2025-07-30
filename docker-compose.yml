@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  gemini-api:
+    build: .
+    container_name: receipt_ai_project
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app  # For local development with live reload
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: always
