@@ -36,7 +36,7 @@ git clone https://github.com/SumithSudheer/receipt_ai_project.git
 
 docker-compose up --build
 
-
+```
 
 
 
@@ -63,5 +63,7 @@ Maps local files to container for hot reload.
 ✅ Dependencies
 Install manually (if not using Docker):
 
+```bash
 sudo apt-get update && sudo apt-get install -y poppler-utils tesseract-ocr
 pip install -r requirements.txt
+```
