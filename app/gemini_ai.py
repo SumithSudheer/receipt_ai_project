@@ -25,7 +25,7 @@ def extract_entities_with_gemini(raw_text: str):
     From the following receipt text (extracted from pdf), please extract the following information:
     1. Merchant Name
     2. Total Amount
-    3. Billed Date (in YYYY-MM-DD format)  (maybe in different format or then convert it )
+    3. Billed Date (in YYYY-MM-DD format) (if time also add time) (maybe in different format or then convert it )
 
     If a piece of information is not found, state "Not Found".
 

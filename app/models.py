@@ -16,7 +16,7 @@ class ReceiptFile(Base):
 class Receipt(Base):
     __tablename__ = "receipt"
     id = Column(Integer, primary_key=True, index=True)
-    purchased_at = Column(String, nullable=True)
+    purchased_at = Column(DateTime, nullable=True)
     merchant_name = Column(String, nullable=True)
     total_amount = Column(Float, nullable=True)
     file_path = Column(String, nullable=False)

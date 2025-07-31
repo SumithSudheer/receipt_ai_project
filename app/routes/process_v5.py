@@ -1,3 +1,5 @@
+from datetime import datetime
+from dateutil import parser
 import os
 from fastapi import APIRouter, HTTPException, Depends
 from sqlalchemy.orm import Session
@@ -33,10 +35,18 @@ async def process_receipt(file_id: int, db: Session = Depends(get_db)):
 
     # AI Entity Extraction
     entities = extract_entities_with_gemini(raw_text)
-
+    purchased_at_str = entities.get("purchased_at")
+    purchased_at = None
+    if purchased_at_str:
+        print(purchased_at_str)
+        try:
+            purchased_at = parser.parse(purchased_at_str)  # adjust format if needed
+        except ValueError:
+            purchased_at = None  # fallback if parsing fails
+            
     # Store in Receipt table
     receipt = Receipt(
-        purchased_at=entities.get("purchased_at"),
+        purchased_at=purchased_at,
         merchant_name=entities.get("merchant_name"),
         total_amount=entities.get("total_amount"),
         file_path=receipt_file.file_path,
