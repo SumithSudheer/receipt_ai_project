@@ -1,4 +1,3 @@
-# receipt_ai_project
 # 📄 Receipt AI Project
 
 A **FastAPI-based API** for automating receipt data extraction using **Gemini AI**, `pdf2image`, and **Tesseract OCR**.  
