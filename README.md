@@ -31,24 +31,16 @@ Includes **Dockerized deployment** for easy setup.
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/receipt_ai_project.git
-cd receipt_ai_project
+git clone https://github.com/SumithSudheer/receipt_ai_project.git
 
 
 docker-compose up --build
 
-http://localhost:8000/docs
 
 
 
 
 ✅ API Endpoints
-POST /process_v5/{id}
-Description: Extract text from a receipt (PDF or Image).
-
-Payload: Upload file via multipart/form-data.
-
-Response: Extracted text + AI-processed output.
 
 http://localhost:8000/docs
 
