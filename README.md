@@ -41,9 +41,6 @@ docker-compose up --build
 http://localhost:8000/docs
 
 
-docker exec -it receipt_ai_project bash
-pdfinfo -v
-tesseract --version
 
 
 ✅ API Endpoints
@@ -70,6 +67,10 @@ uvicorn for development
 
 docker-compose.yml
 Maps local files to container for hot reload.
+
+
+✅ Dependencies
+Install manually (if not using Docker):
 
 sudo apt-get update && sudo apt-get install -y poppler-utils tesseract-ocr
 pip install -r requirements.txt
